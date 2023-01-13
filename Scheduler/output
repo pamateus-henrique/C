@@ -1,0 +1,107 @@
+KERNEL EMPTY: 1
+USER EMPTY: 1
+currentTime: 1
+adicionado KERNEL, currentTime: 0
+adicionado KERNEL, currentTime: 1
+adicionado KERNEL, currentTime: 1
+KERNEL EMPTY: 0
+USER EMPTY: 1
+fila de KERNEL
+ID: 0
+BurstTime: 20
+id: 0, REMOVIDO DA FILA
+adicionado USER, currentTime: 21
+adicionado USER, currentTime: 21
+adicionado USER, currentTime: 21
+adicionado USER, currentTime: 21
+adicionado KERNEL, currentTime: 21
+adicionado KERNEL, currentTime: 21
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 1
+BurstTime: 60
+adicionado USER, currentTime: 41
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 2
+BurstTime: 30
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 7
+BurstTime: 100
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 8
+BurstTime: 20
+id: 8, REMOVIDO DA FILA
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 1
+BurstTime: 40
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 2
+BurstTime: 10
+id: 2, REMOVIDO DA FILA
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 7
+BurstTime: 80
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 1
+BurstTime: 20
+id: 1, REMOVIDO DA FILA
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 7
+BurstTime: 60
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 7
+BurstTime: 40
+KERNEL EMPTY: 0
+USER EMPTY: 0
+fila de KERNEL
+ID: 7
+BurstTime: 20
+id: 7, REMOVIDO DA FILA
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+id: 3, REMOVIDO DA FILA
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+id: 4, REMOVIDO DA FILA
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+id: 5, REMOVIDO DA FILA
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+id: 9, REMOVIDO DA FILA
+KERNEL EMPTY: 1
+USER EMPTY: 0
+fila de USER
+id: 6, REMOVIDO DA FILA
